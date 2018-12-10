@@ -1,0 +1,16 @@
+C:\Users\phili\Desktop\Programming\Capstone\VapeInventory\VapeInventory\bin\Debug\VapeInventory.exe.config
+C:\Users\phili\Desktop\Programming\Capstone\VapeInventory\VapeInventory\bin\Debug\VapeInventory.exe
+C:\Users\phili\Desktop\Programming\Capstone\VapeInventory\VapeInventory\bin\Debug\VapeInventory.pdb
+C:\Users\phili\Desktop\Programming\Capstone\VapeInventory\VapeInventory\obj\Debug\VapeInventory.csprojAssemblyReference.cache
+C:\Users\phili\Desktop\Programming\Capstone\VapeInventory\VapeInventory\obj\Debug\VapeInventory.csproj.CoreCompileInputs.cache
+C:\Users\phili\Desktop\Programming\Capstone\VapeInventory\VapeInventory\obj\Debug\VapeInventory.exe
+C:\Users\phili\Desktop\Programming\Capstone\VapeInventory\VapeInventory\obj\Debug\VapeInventory.pdb
+C:\Users\phili\Downloads\CapstoneVapeInventory-master\CapstoneVapeInventory-master\VapeInventory\bin\Debug\VapeInventory.exe.config
+C:\Users\phili\Downloads\CapstoneVapeInventory-master\CapstoneVapeInventory-master\VapeInventory\bin\Debug\VapeInventory.exe
+C:\Users\phili\Downloads\CapstoneVapeInventory-master\CapstoneVapeInventory-master\VapeInventory\bin\Debug\VapeInventory.pdb
+C:\Users\phili\Downloads\CapstoneVapeInventory-master\CapstoneVapeInventory-master\VapeInventory\obj\Debug\VapeInventory.csprojAssemblyReference.cache
+C:\Users\phili\Downloads\CapstoneVapeInventory-master\CapstoneVapeInventory-master\VapeInventory\obj\Debug\VapeInventory.csproj.CoreCompileInputs.cache
+C:\Users\phili\Downloads\CapstoneVapeInventory-master\CapstoneVapeInventory-master\VapeInventory\obj\Debug\VapeInventory.exe
+C:\Users\phili\Downloads\CapstoneVapeInventory-master\CapstoneVapeInventory-master\VapeInventory\obj\Debug\VapeInventory.pdb
+C:\Users\phili\Downloads\CapstoneVapeInventory-master\CapstoneVapeInventory-master\VapeInventory\bin\Debug\Data\attys.csv
+C:\Users\phili\Downloads\CapstoneVapeInventory-master\CapstoneVapeInventory-master\VapeInventory\bin\Debug\Data\mods.csv
